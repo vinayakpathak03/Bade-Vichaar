@@ -1,5 +1,5 @@
 # Quick-Minutes-of-Meeting-using-ChatGPT. 
-Developed a system using OpenAI's Da Vinci 003 (GPT-3.5) and Whisper to transcribe audio and generate Minutes of Meeting (MoM) from video files. ChatGPT acts like a co-founder.
+Developed this project using OpenAI's Da Vinci 003 (GPT-3.5) and Whisper to transcribe audio and generate Minutes of Meeting (MoM) from video files. ChatGPT acts like a co-founder.
 
 # MoM Generator
 
